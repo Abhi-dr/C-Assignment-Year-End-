@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int
+main ()
+{
+
+  int n, data[n], *pointer = &data;
+
+  printf ("Enter the number of elements: ");
+  scanf ("%d\n", &n);
+
+  for (int i = 0; i < n; i++)
+    {
+      scanf ("%d", pointer);
+      pointer++;
+    }
+
+  pointer = data;
+
+  printf ("Array elements: ");
+  for (int i = 0; i < n; i++)
+    {
+      printf ("%d, ", *pointer);
+
+      pointer++;
+    }
+
+
+
+
+}
