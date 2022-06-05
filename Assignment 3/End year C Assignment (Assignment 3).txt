@@ -1,0 +1,131 @@
+Practice sheets
+1. Write a C program to input temperature in Centigrade and convert to Fahrenheit. How to convert temperature from degree centigrade to degree Fahrenheit in C programming. Logic to convert temperature from Celsius to Fahrenheit in C.
+
+2. Write a C program to input number of days from user and convert it to years, weeks and days. How to convert days to years, weeks in C programming. Logic to convert days to years, weeks and days in C program.
+
+3. Write a C program to input marks of five subjects of a student and calculate total, average and percentage of all subjects. How to calculate total, average and percentage in C programming. Logic to find total, average and percentage in C program.
+
+4. Write a C program to input length in centimeter and convert it to meter and kilometer. How to convert length from centimeter to meter and kilometer in C programming. Length conversion program in C from centimeter to meter and centimeter to kilometer.
+
+5. Write a C program to input any number from user and set nth bit of the given number as 1. How to set nth bit of a given number using bitwise operator in C programming. Setting nth bit of a given number using bitwise operator.
+
+6. Write a C program to input any number from user and find highest order set bit of given number using bitwise operator. How to find the highest order of the set bit of a given number using bitwise operator in C programming? Logic to get highest order set bit of a number in C programming.
+
+7. Write a C program to input any two numbers from user and swap values of both numbers using bitwise operator. How to swap two number using bitwise operator in C programming. Logic to swap two numbers using bitwise operator in C programming.
+
+8. Write a C program to input any number and check whether the given number is even or odd using bitwise operator. How to check whether a number is even or odd using bitwise operator in C programming. Logic to check even odd using bitwise operator in C programming.
+
+9. Write a C program to input a year and check whether year is leap year or not using conditional/ternary operator ?:. How to check leap year using conditional operator in C programming.
+
+10.  Write a C program to input a character and check whether the character is alphabet or not using Conditional/Ternary operator ?:. How to check alphabets using conditional operator in C programming.
+
+11.  Write a C program to check whether a number is divisible by 5 and 11 or not using if else. How to check divisibility of any number in C programming. C program to enter any number and check whether it is divisible by 5 and 11 or not. Logic to check divisibility of a number in C program.
+
+12. Write a C program to input a character from user and check whether given character is alphabet, digit or special character using if else. How to check if a character is alphabet, digits or any other special character using if else in C programming. Logic to check alphabet, digit or special character in C programming.
+
+
+13.   Write a C program to check whether a triangle is valid or not if angles are given using if else. How to check whether a triangle can be formed or not, if its angles are given using if else in C programming. Logic to check triangle validity if angles are given in C program.
+
+14. Write a C program to check leap year using if else. How to check whether a given year is leap year or not in C programming. C Program to input year from user and check whether the given year is leap year or not using ladder if else. Logic to check leap year in C programming.
+
+15. Write a C program to create menu driven calculator that performs basic arithmetic operations (add, subtract, multiply and divide) using switch case and functions. The calculator should input two numbers and an operator from user. It should perform operation according to the operator entered and must take input in given format.
+   <number 1> <operator> <number 2>
+16.  Write a C program to input number from user and check whether the number is even or odd using switch case. How to check even or odd using switch case in C programming. Logic to check whether a number is even or odd using switch case in C program.
+
+17. Write a C program using function to input a number from user and print multiplication table of the given number using for loop. How to print multiplication table of a given number in C programming. Logic to print multiplication table of any given number in C program.
+
+18. Write a C program using function to input number from user and check number is palindrome or not using loop. How to check whether a number is palindrome or not using loop in C programming. Logic to check palindrome number in C programming.
+
+19.   Write a C program to count frequency of digits in a given number. How to find frequency of digits in a given number using loop in C programming. Logic to find total occurrences of each digits in a given number in C program.
+
+20.   Write a C program using function to input a number from user and print it into words using for loop. How to display number in words using loop in C programming. Logic to print number in words in C programming.
+
+21.   Write a C program using function to input a number from user and find all factors of the given number using for loop. How to find factors of a number in C program. Logic to find all factors of a given number in C programming.
+
+22.  Write a C program using function to input a number and calculate its factorial using for loop. How to find factorial of a number in C program using loop. Logic to find factorial of a number in C programming.
+
+23.  Write a C program using function to print all Prime numbers between 1 to n using loop. How to print all prime numbers between given interval using loop in C program. Logic to print prime numbers in a given range in C program.
+
+24.  Write a C program using function to input a number from user and find Prime factors of the given number using loop. C program to list all prime factors of a given number. Logic to find prime factors of a number in C programming.
+
+25.  Write a C program using function to print all Armstrong numbers between 1 to n. How to print Armstrong numbers between given interval using loop in C program. Logic to print Armstrong numbers in given range in C programming.
+
+26. Write a C program using function to find all Perfect numbers between 1 to n. C program to find all perfect numbers between given range. How to generate all perfect numbers between given interval using loop in C programming? Logic to find all perfect numbers in a given range in C programming.
+
+27.   Write a C program using function to print Strong numbers between 1 to n. C program to print all strong numbers between a given range. Logic to print strong numbers in a given range in C program.
+
+28.  Write a C program using function to print Fibonacci series up to n terms using loop. How to generate Fibonacci series up to n terms using loops in C programming. Logic to print Fibonacci series in a given range in C programming or using pointer.
+
+29.  Write a C program   to input elements in an array from user, find maximum and minimum element in array. C program to find biggest and smallest elements in an array. Logic to find maximum and minimum element in array in C programming or using pointer.
+
+30.  Write a C program using function to read elements in an array and find the sum of array elements. C program to find sum of elements of the array. How to add elements of an array using for loop in C programming. Logic to find sum of array elements in C programming or using pointer.
+
+31.  Write a C program using function to input elements in array and find frequency of each element in array. How to count occurrence of each element in array in C programming using loop. Logic to count frequency of each element in array in C program or using pointer
+
+32. Write a C program to find reverse of an array using pointer.
+
+
+33.  Write a C program to search an element in an array.
+34.  Bubble sort 
+
+35.  Write a C program to left rotate an array using pointer.
+
+
+36.  Write a C program to read elements in two matrices and multiply them. Matrix multiplication program in C. How to multiply matrices in C. Logic to multiply two matrices in C programming.
+
+37. Write a C program to read elements in a matrix and find the sum of main diagonal (major diagonal) elements of matrix. Find sum of all elements of main diagonal of a matrix. Logic to find sum of main diagonal elements of a matrix in C programming. 
+
+38. Write a C program to read elements in a matrix and interchange elements of primary(major) diagonal with secondary(minor) diagonal. C program for interchanging diagonals of a matrix. Logic to interchange diagonals of a matrix in C programming.
+
+39.  Write a C program to read elements in a matrix and find the sum of elements of each row and columns of matrix. C program to calculate sum of rows and columns of matrix. Logic to find sum of each row and columns of a matrix in C programming.
+
+40.  Write a C program to copy one string to another string using loop. C program to copy one string to another without using inbuilt library function strcpy(). How to copy one string to another without using inbuilt string library function in C programming. Effective logic to copy strings in C programming. How to copy one string to another string using strcpy() function in C program.
+
+41.  Write a C program to count total number of alphabets, digits or special characters in a string using loop. How to find total number of alphabets, digits and special characters in a string in C programming.
+
+42.  Write a C program to check whether a string is palindrome or not without using loop. How to check whether a string is palindromic string or not in C programming. Logic to check palindrome string in C program.
+
+43.  Write a C program to search all occurrences of a character in a string using loop. How to find all occurrences of a character in a given string using for loop in C programming. Program to print all index of a character in a given string. Logic to search all occurrences of a character in given string in C program.
+
+44.  Write a C program to count frequency of each character in a string using loop. How to find frequency of each characters in a string in C programming. Logic to count frequency of each character in a given string in C program.
+
+45.  Write a C program to remove extra spaces, blanks from a string. How to remove extra blank spaces, blanks from a given string using functions in C programming. Logic to remove extra white space characters from a string in C.
+
+46.  Write a c program to check whether the string is Anagram or not.
+
+47.  Write a c program to check whether the string is pangram or not.
+
+48.  Write a C program to swap corresponding elements of two arrays using pointers. How to swap two arrays using pointers in C program. Logic to swap two arrays of different length using pointers in C programming.
+
+49. Write a C program to copy one string to another string using loop. C program to copy one string to another without using inbuilt library function strcpy(). How to copy one string to another without using inbuilt string library function in C programming. Effective logic to copy strings in C programming. How to copy one string to another string using strcpy() function in C program.
+
+50. Write a C program to copy one array elements to another array using pointers. How to copy array elements from one array to another array using pointers. Logic to copy one array to another array using pointers in C programming.
+
+51.  Explain all category of functions
+
+52. Types of functions with example
+
+53. What is array and explain its types
+
+54. What is pointer
+
+55.  Dangling, void, wild, Null pointer
+
+56. Array of pointer and pointer of array
+
+57. DMA and all its functions
+
+58. Pointer to pointer
+
+59. Array with function
+
+60. String vs character Array
+
+61. String and its functions
+
+62.   Ladder if vs switch
+
+
+
+
+
